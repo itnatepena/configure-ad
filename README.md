@@ -62,7 +62,7 @@ On the domain controller, open PowerShell ISE as an administrator, and make sure
 </p>
 
 <p>
-After creating the users, Client-1 can now be signed in as one of the new users created by the PowerShell script. Choose a name and sign in with the context of the domain. In my case, it's ernestotest.com\bon.rovej.
+After creating the users, Client-1 can now be signed in as one of the new users created by the PowerShell script. Choose a name and sign in with the context of the domain. In my case, it's natepena.com\bon.rovej.
 </p>
 
 <h2>Lessons Learned</h2>
