@@ -54,7 +54,7 @@ Before users in the domain can use the client computer, Remote Desktop has to be
 </p>
 
 <p>
-Creating users can be done manually or through the use of a script. For this lab, I'll be using a PowerShell script, which can be found [here](https://github.com/AsiaPonder001/BunchofUsers/blob/main/README.md?plain=1).
+Creating users can be done manually or through the use of a script. For this lab, I'll be using a PowerShell script, which can be found <a href="https://github.com/AsiaPonder001/BunchofUsers/blob/main/README.md?plain=1">here!</a>
 </p>
 
 <p>
