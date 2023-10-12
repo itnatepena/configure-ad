@@ -20,7 +20,7 @@ Now that Active Directory is installed on the domain controller VM, it's time to
 </p>
 
 <p>
-1. Right-click on the domain you created (e.g., ernestotest.com) and create new Organizational Units (OUs). I've created two OUs, "_EMPLOYEES" and "_ADMINS."
+1. Right-click on the domain you created (e.g., natepena.com) and create new Organizational Units (OUs). I've created two OUs, "_EMPLOYEES" and "_ADMINS."
 2. Within the "_ADMINS" OU, I created a User named Jane Doe. Jane's account will be given administrative privileges through the use of a Security Group. To grant admin privileges, right-click on the user, open their Properties, and click "Member Of" to add the appropriate security group. In my case, I added Jane to the Domain Admins security group. From now on, I will be using Jane's account for further changes. I'll log in as Jane_Admin.
 </p>
 
