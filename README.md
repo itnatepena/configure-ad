@@ -1,3 +1,5 @@
+![image](https://github.com/itnatepena/configure-ad/assets/147539410/fdd80f20-2b7b-4840-9563-3f091bb7870c)
+
 <h1>Configuring Active Directory in Azure</h1>
 This guide is a follow-up to the previous lab where I installed Active Directory and established a domain controller. In this lab, I will configure Active Directory and demonstrate how to add a client to the domain while creating user accounts.
 
