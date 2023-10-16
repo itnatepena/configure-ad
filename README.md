@@ -3,17 +3,17 @@
 <h1>Configuring Active Directory in Azure</h1>
 This guide is a follow-up to the previous lab where I installed Active Directory and established a domain controller. In this lab, I will configure Active Directory and demonstrate how to add a client to the domain while creating user accounts.
 
-<h2>Environments and Technologies Used</h2>
+## Project Summary
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+This lab guide walks you through the process of configuring Active Directory in an Azure environment. It covers the following key aspects:
 
-<h2>Operating Systems Used</h2>
+- **Languages Used:** N/A (Azure configuration is the focus).
+- **Environments Used:** Azure (Virtual Machines/Compute).
+- **Technology/Applications/Services Used:** Microsoft Azure, Remote Desktop, Active Directory Domain Services, and PowerShell for account creation.
 
-- Windows Server 2022
-- Windows 10 Pro (21H2)
+## Technologies Used
+
+- **Operating Systems:** Windows Server 2022, Windows 10 Pro (21H2).
 
 <h2>Configuration Steps</h2>
 
