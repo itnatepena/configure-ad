@@ -7,7 +7,6 @@ This guide is a follow-up to the previous lab where I installed Active Directory
 
 This lab guide walks you through the process of configuring Active Directory in an Azure environment. It covers the following key aspects:
 
-- **Languages Used:** N/A (Azure configuration is the focus).
 - **Environments Used:** Azure (Virtual Machines/Compute).
 - **Technology/Applications/Services Used:** Microsoft Azure, Remote Desktop, Active Directory Domain Services, and PowerShell for account creation.
 
